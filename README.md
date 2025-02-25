@@ -10,10 +10,3 @@ Detailed documentation incoming very shorty! :smiley:
 
 # References
 [1] R Mihalcea, P Tarau; Proceedings of the 2004 conference on empirical methods in natural language processing; 2004; [[URL](http://www.aclweb.org/anthology/W04-3200)] 
-
-
-# License
-TextSummarizer is Open Source software released under the
-[MIT License](https://github.com/TextSummarize/TextSummarizer/blob/master/LICENSE).
-
-
